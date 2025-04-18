@@ -1,2 +1,2 @@
 ﻿# Real-Time-Javascript-Projects
-[Text Limiter](./Text Limiter)
+[Text Limiter](./Text%20Limiter/)
